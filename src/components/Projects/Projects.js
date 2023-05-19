@@ -21,12 +21,12 @@ function Projects() {
               imgPath={moms}
               isBlog={false}
               title="Mom's Kitchen"
-              description=""
+              description="In this project the user can create his account and manage his account. User can add the dish from different category of food to his cart"
               ghLink="https://github.com/rauni00/moms-kitchen"
               demoLink="http://18.209.48.28:3000/"
             />
           </Col>
-
+            
          
         </Row>
       </Container>
